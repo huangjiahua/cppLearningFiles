@@ -1,0 +1,10 @@
+main menu
+01. new account
+02. deposit amount
+03. withdraw amount
+04. balance enquiry
+05. all account holder list
+06. close an account
+07. modify an account
+08. exit
+Select Your Option <1-8>
